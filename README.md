@@ -207,12 +207,20 @@ A nonverbal test typically used to measure general human intelligence and abstra
 
 Our version has been pared down to 12 questions and has also been adapted to run in javascript.
 
+## References
 
-
-
-
-
-
-
-
-
+1. Amaral-Prado, H. M., Borghi, F., Mello, T. M. V. F., & Grassi-Kassisse, D. M. (2020). The impact of confinement in the psychosocial behaviour due COVID-19 among members of a Brazilian university. The International Journal of Social Psychiatry.
+2. Hasan, N., & Bao, Y. (2020). Impact of “e-Learning crack-up” perception on psychological distress among college students during COVID-19 pandemic: A mediating role of “fear of academic year loss”. Children and Youth Services Review, 118, 105355.
+3. Wang, P. W., Lu, W. H., Ko, N. Y., Chen, Y. L., Li, D. J., Chang, Y. P., & Yen, C. F. (2020). COVID-19-related information sources and the relationship with confidence in people coping with COVID-19: Facebook survey study in Taiwan. Journal of medical Internet research, 22(6), e20021.
+4. Merzon, E., Manor, I., Rotem, A., Schneider, T., Vinker, S., Golan Cohen, A., ... & Green, I. (2020). ADHD as a risk factor for infection with Covid-19. Journal of Attention Disorders, 1087054720943271.
+5. Marelli, S., Castelnuovo, A., Somma, A., Castronovo, V., Mombelli, S., Bottoni, D., ... & Ferini-Strambi, L. (2021). Impact of COVID-19 lockdown on sleep quality in university students and administration staff. Journal of Neurology, 268(1), 8-15.
+6. Husky, M. M., Kovess-Masfety, V., & Swendsen, J. D. (2020). Stress and anxiety among university students in France during Covid-19 mandatory confinement. Comprehensive Psychiatry, 102, 152191.
+7. WHO ASSIST Working Group (2002). The Alcohol, Smoking and Substance Involvement Screening Test (ASSIST): development, reliability and feasibility. Addiction (Abingdon, England), 97(9), 1183–1194. https://doi.org/10.1046/j.1360-0443.2002.00185.x
+8. Lubben, J., Blozik, E., Gillmann, G., Iliffe, S., von Renteln Kruse, W., Beck, J. C., & Stuck, A. E. (2006). Performance of an abbreviated version of the Lubben Social Network Scale among three European community-dwelling older adult populations. The Gerontologist, 46(4), 503-513.
+9. John, Raven J. (2003) Raven Progressive Matrices. In: McCallum R.S. (eds) Handbook of Nonverbal Assessment. Springer, Boston, MA. https://doi.org/10.1007/978-1-4615-0153-4_11
+10. Pedrozo-Pupo, J. C., Pedrozo-Cortés, M. J., & Campo-Arias, A. (2020). Perceived stress associated with COVID-19 epidemic in Colombia: an online survey. Cadernos de saude publica, 36, e00090520.
+11. Beck, A.T., Epstein, N., Brown, G., & Steer, R.A. (1988). An inventory for measuring clinical anxiety: Psychometric properties. Journal of Consulting and Clinical Psychology, 56, 893-897.
+12. Radloff, L. S. (1991). The use of the Center for Epidemiologic Studies Depression Scale in adolescents and young adults. Journal of youth and adolescence, 20(2), 149-166.
+13. Campbell‐Sills, L., & Stein, M. B. (2007). Psychometric analysis and refinement of the connor–davidson resilience scale (CD‐RISC): Validation of a 10‐item measure of resilience. Journal of Traumatic Stress: Official Publication of The International Society for Traumatic Stress Studies, 20(6), 1019-1028.
+14. Mundt, J. C., Marks, I. M., Shear, M. K., & Greist, J. M. (2002). The Work and Social Adjustment Scale: a simple measure of impairment in functioning. The British Journal of Psychiatry, 180(5), 461-464.
+15. Lee, S. A. (2020). Coronavirus Anxiety Scale: A brief mental health screener for COVID-19 related anxiety. Death studies, 44(7), 393-401.
