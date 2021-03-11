@@ -12,7 +12,7 @@ Title: **Individual differences in effort-reward trade-offs during learning: imp
 
 Ethics certificate number: **30009803**
 
-This is an online questionnaire-based study that will run on **Pavlovia** for Concordia University Students. 
+This is an online questionnaire-based study that will run on Cognition.Run for Concordia University Students. 
 
 ## Study information
 
