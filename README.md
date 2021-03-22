@@ -1,9 +1,8 @@
 ---
-title: "Study Info"
-author: "Nathalie Germain"
-collaborators: "Maxine Profitt & Ben Eppinger"
-date: "11/03/2021"
-output: html_document
+Title: "Study Info for COV19 Study"
+Author: "Nathalie Germain"
+Collaborators: "Maxine Profitt & Ben Eppinger"
+Date: "11/03/2021"
 ---
 
 ## Concordia Longitudinal Wellbeing Study
@@ -27,8 +26,6 @@ The current project is unique in the sense that we have data from a large group 
 We are interested in your personal history during the Covid-19 pandemic because it may help us to better understand the needs of students in Concordia's Psychology department. Your answers to a series of a few short questions will aid us in this effort. All answers will be kept strictly confidential. Thank you for your help.
 
 ## Demographics
-
-**Added**
 
 - ID
 
@@ -55,7 +52,7 @@ We are interested in your personal history during the Covid-19 pandemic because 
 
 -  Using the slider, rate how likely you think it is that you will catch the coronavirus
 
-## Educational acheivement
+## Educational achievement
 
 ### High School
 
@@ -71,7 +68,7 @@ We are interested in your personal history during the Covid-19 pandemic because 
 
 ### University
 
-- [X] Start, Degree type & **Institution**
+- [X] Start, Degree type & Institution
 
 - [X] Which year are you in? How many years have you been at it?
 
