@@ -189,7 +189,7 @@ For data cleaning: add [risc_01	risc_02	risc_03	risc_04	risc_05	risc_06	risc_07	
 
 Quantifies self-report resilience. Higher scores indicate higher resilience. Minimum scores on each are 0 and max for each are 4. 
 
-## Percieved Stress Scale (COVID-PSS-10)
+## Perceived Stress Scale (COVID-PSS-10)
 
 For data cleaning: add [risc_01	risc_02	risc_03	risc_04	risc_05	risc_06	risc_07	risc_08	risc_09	risc_10] to score
 
