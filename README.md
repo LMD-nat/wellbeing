@@ -2,7 +2,8 @@
 Title: "Study Info for COV19 Study"
 Author: "Nathalie Germain"
 Collaborators: "Maxine Profitt & Ben Eppinger"
-Date: "11/03/2021"
+Date Started: "11/03/2021"
+
 ---
 
 ## Concordia Longitudinal Wellbeing Study
@@ -39,6 +40,8 @@ We are interested in your personal history during the Covid-19 pandemic because 
 
 - Native Language
 
+- Living at home or not
+
 
 ## Covid Demographics
 
@@ -56,55 +59,55 @@ We are interested in your personal history during the Covid-19 pandemic because 
 
 ### High School
 
-- [X] Grade
+-  Grade
 
-- [X] Average grade in last year
+-  Average grade in last year
 
 ### CEGEP
 
-- [X] Grade
+-  Grade
 
-- [X] Average grade in last year if applicable
+-  Average grade in last year if applicable
 
 ### University
 
-- [X] Start, Degree type & Institution
+-  Start, Degree type & Institution
 
-- [X] Which year are you in? How many years have you been at it?
+-  Which year are you in? How many years have you been at it?
 
-- [X] Cumulative GPA
+-  Cumulative GPA
 
-- [X] Credits completed versus credits left
+-  Credits completed versus credits left
 
 ### Grad school (if applicable)
 
-- [X] Start, Degree type & Institution
+-  Start, Degree type & Institution
 
-- [X] Which year are you in? How many years have you been at it?
+-  Which year are you in? How many years have you been at it?
 
-- [X] Cumulative GPA
+-  Cumulative GPA
 
-- [X] Credits completed versus credits left
+-  Credits completed versus credits left
 
 ## Current psychopathology
 
-- [X] Do you have any developmental disorders?
+-  Do you have any developmental disorders?
 
-- [X] Were you affected by a mental health condition prior to the onset of the pandemic?
+-  Were you affected by a mental health condition prior to the onset of the pandemic?
 
-- [X] Were you diagnosed with a mental health condition since the onset of the pandemic?
+-  Were you diagnosed with a mental health condition since the onset of the pandemic?
 
-- [X] Are you currently taking medication for a mental health condition?
+-  Are you currently taking medication for a mental health condition?
 
-- [X] In the last year have you used ADHD medication to study for an exam?
+-  In the last year have you used ADHD medication to study for an exam?
 
-- [X] In the last year have you used ADHD medication to write an exam?
+-  In the last year have you used ADHD medication to write an exam?
 
 ## SES
 
-- [X] Parent and Participant Weekly Income
+-  Parent and Participant Weekly Income
 
-- [X] Ladder
+-  Ladder
 
 ## Social Network Scale
 
@@ -118,25 +121,25 @@ The answers are scored as follows: none = 0, one = 1, two = 2, three or four = 3
 
 ### Family
 
-- [X] How many relatives do you see or hear from at least once a month? 
+-  How many relatives do you see or hear from at least once a month? 
 
-- [X] How many relatives do you feel at ease with that you can talk about private matters? 
+-  How many relatives do you feel at ease with that you can talk about private matters? 
 
-- [X] How many relatives do you feel close to such that you could call on them for help? 
+-  How many relatives do you feel close to such that you could call on them for help? 
 
 ### Friends
 
-- [X] How many friends do you see or hear from at least once a month? 
+-  How many friends do you see or hear from at least once a month? 
 
-- [X] How many friends do you feel at ease with that you can talk about private matters? 
+-  How many friends do you feel at ease with that you can talk about private matters? 
 
-- [X] How many friends do you feel close to such that you could call on them for help? 
+-  How many friends do you feel close to such that you could call on them for help? 
 
 ## Substance Use (ASSIST)
 
 The Alcohol, Smoking and Substance Involvement Screening Test (ASSIST) was developed for the World Health Organization (WHO) by an international group of substance abuse researchers to detect and manage substance use and related problems in primary and general medical care settings.
 
-There are different risk levels that can be calculated for each substance. [Risk levels for each availible here.](https://www.who.int/substance_abuse/activities/assist_v3_english.pdf?ua=1)
+There are different risk levels that can be calculated for each substance. [Risk levels for each available here.](https://www.who.int/substance_abuse/activities/assist_v3_english.pdf?ua=1)
 
 ## Need for Cognition
 
@@ -191,10 +194,7 @@ Quantifies self-report resilience. Higher scores indicate higher resilience. Min
 
 ## Perceived Stress Scale (COVID-PSS-10)
 
-For data cleaning: add [risc_01	risc_02	risc_03	risc_04	risc_05	risc_06	risc_07	risc_08	risc_09	risc_10] to score
-
 The PSS uses a 5-point Likert scale to measure the degree to which individuals perceived their daily life as being stressful during the past month (0 is never and 4 is very often). Total scores range from 0 to 40. 
-
 
 For data cleaning: add [pss10_01	pss10_02	pss10_03	pss10_04	pss10_05	pss10_06	pss10_07	pss10_08	pss10_09	pss10_10] to score
 
