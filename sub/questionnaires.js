@@ -242,6 +242,7 @@ var SESincome = {
   questions:[
     {prompt: "Please indicate your parents\' weekly income", name:'sesparent', labels: ['I am not sure', '< 100$', '101-200$', '201-300$', '301-400$', '401-500$', '501-600$', '601-700$', '701-800$', '801-900$', '901$ +'], required:true},
     {prompt: "Please indicate your weekly income", name:'sesstudent', labels: ['I am not sure', '< 100$', '101-200$', '201-300$', '301-400$', '401-500$', '501-600$', '601-700$', '701-800$', '801-900$', '901$ +'], required:true},
+    {prompt: "Please indicate your current living situation", name:'seshome', labels: ['Living with parents or family', 'Living with significant other', 'Living with roommates', 'Living alone', 'Student housing', 'Public housing', 'No fixed address', 'I am not sure', 'Other'], required:true},
     {prompt: "We are interested in how you perceive your life. Think of a ladder representing where people stand in North America. At the top of the ladder are the people who are the best off -- those who have the most money, the most education, and the most respected jobs. At the bottom are the people who are the worst off -- who have the least money, least education, and the least respected jobs or no job. The higher up you are on this ladder, the closer you are to the people at the very top; the lower you are, the closer you are to the people at the very bottom. Imagine this rating scale represents the ladder. Where would you place yourself, relative to other people in North America?", name:'sesladder', labels: ['1, very low on the social ladder', '2', '3', '4', '5', '6', '7', '8', '9', '10, very high on the social ladder'], required:true}
   ],
   preamble: '<br> <i>We are interested in your current socioeconomic status, please answer the following questions.</i>',
@@ -249,6 +250,7 @@ var SESincome = {
     jsPsych.data.addProperties({
       sesparent: JSON.parse(data.responses)['sesparent'],
       sesstudent: JSON.parse(data.responses)['sesstudent'],
+      seshome: JSON.parse(data.responses)['seshome'],
       sesladder: JSON.parse(data.responses)['sesladder']
     });
   }
