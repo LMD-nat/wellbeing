@@ -4,7 +4,7 @@ var welcome = {
     type: 'instructions',
     pages: [
         '<p>Welcome! In this study you\'ll be answering some questions about your well being.</p>',
-        '<p>Please make sure you have your unique ID code handy. You\'ll need it for the first set of questions, and later for the cognitive task.</p>',
+        '<p>Please make sure you have your unique ID code handy. You\'ll need it for the first set of questions.</p>',
         '<p>About half way through this study, we\'ll ask you to provide some information from your student transcript.</p>',
         '<p>You can access your unofficial transcript by accessing the MyConcordia portal (https://my.concordia.ca). Click on <b>My Student Centre</b>, then the <b>View My Grades</b> tab. On the left hand side, click <b>Academics</b> and then select <b>View Unofficial Transcript</b>. Click the blue button that says <b>Undergraduate/Graduate Record</b> to view your transcript.</p>',
         '<p>We will remind you to open up your transcript a bit later in the study. We\'ll also provide you with the instructions once more.</p>'
