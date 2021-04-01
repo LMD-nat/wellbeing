@@ -15,4 +15,4 @@ Ethics certificate number: **30009803**
 
 This is an online questionnaire-based study that will run on Cognition.Run for Concordia University Students. 
 
-Check out the wiki if you'd like more information!
+Check out the [wiki](https://github.com/LMD-nat/wellbeing/wiki) if you'd like more information!
