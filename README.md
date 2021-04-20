@@ -3,7 +3,7 @@ Title: "Study Info for COV19 Study"
 Author: "Nathalie Germain"
 Collaborators: "Maxine Profitt & Ben Eppinger"
 Date Started: "11/03/2021"
-Participants So Far: "133"
+Participants: "133"
 
 ---
 
