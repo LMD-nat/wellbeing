@@ -560,38 +560,6 @@ fwrite(demog, file ="~/Desktop/ldm/covid_wellbeing/data/covid/demog.csv")
 #0.0-1.0-18.0-0.0
 ########################################################################
 
-#This down here is confidential, ignore this!
-
-#put everyone on the same page
-demog_emails_merge <- read_csv("covid/demog-emails-merge.csv", 
-                               col_types = cols(Date.of.birth. = col_character()))
-demog_ids_t1_merge <- read_csv("covid/demog_ids_t1-merge.csv", 
-                               col_types = cols(Date.of.birth. = col_character()))
-names(demog_emails_merge)[names(demog_emails_merge) == "What is your gender identity?"] <- "What.is.your.gender.identity."
-tracking <- demog_emails_merge %>% right_join(demog_ids_t1_merge, by=c("Date.of.birth.","What.is.your.gender.identity."))
-glimpse(tracking)
-tracking <- tracking[, c("ID", "Username", "Date.of.birth.", "Timestamp")]
-t2emails <- read_csv("covid/t2emails.csv")
-names(t2emails)[names(t2emails) == "email"] <- "Username"
-tracking <- tracking %>% right_join(t2emails, by=c("Username"))
-fwrite(tracking, file ="~/Desktop/ldm/covid_wellbeing/data/covid/tracking.csv")
-merge_time1 <- read_csv("covid/merge_time1.csv")
-tracking <- tracking %>% right_join(merge_time1, by=c("ID"))
-demog_gpa <- read_csv("covid/demog_gpa.csv")
-names(demog_gpa)[names(demog_gpa) == "ID"] <- "studyid"
-demogtime1 <- tracking %>% right_join(demog_gpa, by=c("studyid"))
-demog1 <- demogtime1[-c(4, 5, 14, 33, 34, 21, 24, 28), ]
-demog1 <- demog1 %>% distinct(ID, .keep_all = TRUE)
-demog1[18, 10] = NA
-demog_time1_time2 <- demog1[, c(1, 8, 10, 19, 88, 89, 102, 104, 118, 229, 254, 265)]
-questionnaires <- read_csv("covid/questionnaires.csv")
-qt1 <- questionnaires[, c(1, 95, 176, 199, 206, 218, 229, 235)]
-names(qt1)[names(qt1) == "score.x"] <- "bai" 
-names(qt1)[names(qt1) == "score"] <- "lsns_time2"
-names(qt1)[names(qt1) == "ID"] <- "studyid"
-analysis <- demog_time1_time2 %>% right_join(qt1, by=c("studyid"))
-analysis <- analysis[-c(25:29), ]
-
 #ok let's look at changes!
 analysis$ucGPA <- as.numeric(analysis$ucGPA)
 analysis$gpa_change <- analysis$cgpa - analysis$ucGPA
