@@ -17,6 +17,4 @@ This is an online questionnaire-based study that will ran on Cognition.Run (now 
 
 Check out the [wiki](https://github.com/LMD-nat/wellbeing/wiki) if you'd like more information!
 
-View the study on [Cognition.Run](https://njf9thioig.cognition.run).
-
 The study is currently running on [Pavlovia](https://run.pavlovia.org/LMD_nat/wellbeing).
